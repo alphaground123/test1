@@ -20,6 +20,6 @@ Une fois, que le programme a saisi toutes les données, il va calculer toutes le
 Les positions x, y et z de chaque particle sont stockées dans des fichiers .data qui sont créés automatiquement et des commandes gnuplot sont générées
 dans le fichier 'positions.plt' qui sera créé automatiquement. 
 
-
+[![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)](#features)
 
 
