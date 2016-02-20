@@ -22,4 +22,4 @@ dans le fichier 'positions.plt' qui sera créé automatiquement.
 
 [![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)](#features)
 
-
+![alt tag](http://url/to/img.png)
